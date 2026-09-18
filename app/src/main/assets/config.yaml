@@ -6,4 +6,4 @@ models:
     provider: openai
     model: "deepseek-v4.1-flash"
     apiBase: "https://triklz27.ru/v1"
-    apiKey: "ВСТАВЬ_СЮДА_КЛЮЧ"
+    apiKey: "Phantom-2Y6SMH"
