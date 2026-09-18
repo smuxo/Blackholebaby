@@ -1,0 +1,9 @@
+name: TRIKLZ27
+version: 1.0.0
+schema: v1
+models:
+  - name: "deepseek-v4.1-flash"
+    provider: openai
+    model: "deepseek-v4.1-flash"
+    apiBase: "https://triklz27.ru/v1"
+    apiKey: "ВСТАВЬ_СЮДА_КЛЮЧ"
